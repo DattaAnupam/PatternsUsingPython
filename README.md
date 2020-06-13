@@ -6,3 +6,5 @@ Some various types of patterns using python programming language
 
 ## Pattern 2
 ![pattern_2](/PatternImages/pattern2.jpg)
+
+## Pattern 3
