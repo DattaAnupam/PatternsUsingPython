@@ -8,3 +8,4 @@ Some various types of patterns using python programming language
 ![pattern_2](/PatternImages/pattern2.jpg)
 
 ## Pattern 3
+![pattern_3](/PatternImages/pattern3.jpg)
