@@ -5,7 +5,7 @@ def pattern4(n):
 	"""
 	for row in range(n):
 		for col in range(row):
-			print("*""", end="")
+			print("*", end="")
 		print("")
 if __name__ == '__main__':
 	n = int(input(("Enter base length of the triangle: ")))
