@@ -18,3 +18,6 @@ Some various types of patterns using python programming language
 
 ## Pattern 6
 ![pattern_6](/PatternImages/pattern6.jpg)
+
+## Pattern 7
+![pattern_7](/PatternImages/pattern7.jpg)
