@@ -1,5 +1,5 @@
 # PatternsUsingPython
-Some various types of patterns using python programming language
+Some various types of patterns using python programming language applying simple logic and docstrings for better understanding for some programs.
 
 ## Pattern 1
 ![pattern_1](/PatternImages/pattern1.jpg)
