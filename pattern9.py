@@ -7,7 +7,7 @@ def pattern9(n, ptrn, ptrn2):
 		print()
 
 if __name__ == '__main__':
-	n = int(input("Enter the base length of triangle: "))
+	n = int(input("Enter the height of triangle: "))
 	ptrn = input("Enter the main symbol e.g. '*': ")
 	ptrn2 = input("Enter the second symbol except {}: ".format(ptrn))
 	pattern9(n, ptrn, ptrn2)

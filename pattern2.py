@@ -1,4 +1,4 @@
-rows = int(input("Enter Number of rows: ").strip())
+rows = int(input("Enter the height of the triangle: ").strip())
 cols = rows
 for row in range(rows):
 	for col in range(cols):
