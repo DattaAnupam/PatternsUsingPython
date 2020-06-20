@@ -15,5 +15,5 @@ def pattern5(n):
 		print("")
 		
 if __name__ == '__main__':
-	n = int(input(("Enter base length of the triangle: ")))
+	n = int(input(("Enter height of the triangle: ")))
 	pattern5(n)

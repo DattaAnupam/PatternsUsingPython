@@ -9,6 +9,6 @@ def pattern7(n, ptrn):
 		print()
 
 if __name__ == '__main__':
-	n = int(input("Enter the base length of triangle: "))
+	n = int(input("Enter the height of triangle: "))
 	ptrn = input("Enter a symbol e.g. '*': ")
 	pattern7(n, ptrn)
