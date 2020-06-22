@@ -36,3 +36,6 @@ Some various types of patterns using python programming language applying simple
 
 ## Pattern 12
 ![pattern_12](/PatternImages/pattern12.jpg)
+
+## Pattern 13
+![pattern_13](/PatternImages/pattern13.jpg)
