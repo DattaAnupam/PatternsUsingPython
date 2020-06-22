@@ -1,4 +1,4 @@
-def pattern10(height):
+def pattern11(height):
 	for row in range(height, 0, -1):
 		for fspc in range(row, height):
 			print(" ", end="")
